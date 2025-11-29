@@ -100,13 +100,13 @@ Hasil Utama
 
 
 File Output
->-----------------------------------------------------------<
+data_bike_sharing.pkl : Model terbaik yang telah disimpan untuk deployment
 
 Cara Menjalankan
 1. Clone repository ini
 2. Install dependencies yang diperlukan
 3. Jalankan notebook capstone project_Kelompok 3.ipynb
-4. pkl van
+4. Model yang telah disimpan dapat di-load menggunakan `pickle` (data_bike_sharing.pkl)
 
 Teknologi yang Digunakan
 1. Python
