@@ -1,0 +1,17 @@
+# --- Library Pengolahan Data ---
+pandas>=1.3.0
+numpy>=1.21.0
+
+# --- Library Visualisasi ---
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# --- Library Machine Learning ---
+scikit-learn>=1.0.0
+scipy>=1.7.0
+
+# --- Library Pendukung (Opsional tapi Disarankan) ---
+joblib>=1.1.0        # Untuk saving model alternatif selain pickle
+jupyterlab           # Jika kamu menjalankan notebook ini di laptop sendiri (lokal)
+notebook             # Dependensi standar untuk format .ipynb
+ipykernel            # Kernel Python untuk Jupyter
